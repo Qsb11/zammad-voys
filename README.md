@@ -28,9 +28,11 @@ You'll need Docker on your system to run the application in a containerized setu
 - Dockerfile: Defines the Docker commands needed to build the image.
 - app.py: The main Flask application script.
 - requirements.txt: Lists all dependencies required by the application.
-- **Dependencies**
 
-## **The project depends on several Python packages, including:**
+
+## **Dependencies**
+
+**The project depends on several Python packages, including:**
 - Flask==3.0.3
 - requests==2.31.0
 - Jinja2==3.1.2
